@@ -2,85 +2,85 @@ const projectsList = [
     {
        projectName: "Wildstone Infra Hotel",
        projectAddress: "2715 Ash Dr. San Jose, South Dakota",
-       projectImage: "/img/projects/wildstone-infra-hotel.png",
+       projectImage: "./img/projects/wildstone-infra-hotel.png",
        projectType: "commercial"
     },
     {
         projectName: "Wish Stone Building",
         projectAddress: "2972 Westheimer Rd. Santa Ana, Illinois",
-        projectImage: "/img/projects/wish-stone-building.png",
+        projectImage: "./img/projects/wish-stone-building.png",
         projectType: "residential"
     },
     {
         projectName: "Mr. Parkinston’s House",
         projectAddress: "3517 W. Gray St. Utica, Pennsylvania",
-        projectImage: "/img/projects/parkingstons-house.png",
+        projectImage: "./img/projects/parkingstons-house.png",
         projectType: "residential"
     },
     {
         projectName: "Oregano Height",
         projectAddress: "2464 Royal Ln. Mesa, New Jersey",
-        projectImage: "/img/projects/oregano-hotel.png",
+        projectImage: "./img/projects/oregano-hotel.png",
         projectType: "other"
     },
     {
         projectName: "High Line",
         projectAddress: "2715 Ash Dr. San Jose, South Dakota",
-        projectImage: "/img/projects/high-line.png",
+        projectImage: "./img/projects/high-line.png",
         projectType: "commercial"
     },
     {
         projectName: "Museum",
         projectAddress: "2972 Westheimer Rd. Santa Ana, Illinois",
-        projectImage: "/img/projects/museum.png",
+        projectImage: "./img/projects/museum.png",
         projectType: "other"
     },
     {
         projectName: "Texas Ranch",
         projectAddress: "3517 W. Gray St. Utica, Pennsylvania",
-        projectImage: "/img/projects/texas-ranch.png",
+        projectImage: "./img/projects/texas-ranch.png",
         projectType: "residential"
     },
     {
         projectName: "Bureau",
         projectAddress: "2464 Royal Ln. Mesa, New Jersey",
-        projectImage: "/img/projects/bureau.png",
+        projectImage: "./img/projects/bureau.png",
         projectType: "other"
     },
     {
         projectName: "Emporia Shopping Mall",
         projectAddress: "2464 Royal Ln. Mesa, New Jersey",
-        projectImage: "/img/projects/emporia-shopping-mall.png",
+        projectImage: "./img/projects/emporia-shopping-mall.png",
         projectType: "commercial"
     },
     {
         projectName: "Rental House",
         projectAddress: "2464 Royal Ln. Mesa, New Jersey",
-        projectImage: "/img/projects/rental-house.png",
+        projectImage: "./img/projects/rental-house.png",
         projectType: "residential"
     },
     {
         projectName: "Mansion",
         projectAddress: "2464 Royal Ln. Mesa, New Jersey",
-        projectImage: "/img/projects/mansion.png",
+        projectImage: "./img/projects/mansion.png",
         projectType: "other"
     },
     {
         projectName: "Insurgentes",
         projectAddress: "2464 Royal Ln. Mesa, New Jersey",
-        projectImage: "/img/projects/insurgentes.png",
+        projectImage: "./img/projects/insurgentes.png",
         projectType: "commercial"
     },
     {
         projectName: "Boneo",
         projectAddress: "2464 Royal Ln. Mesa, New Jersey",
-        projectImage: "/img/projects/boneo.png",
+        projectImage: "./img/projects/boneo.png",
         projectType: "other"
     },
     {
         projectName: "Country House",
         projectAddress: "2464 Royal Ln. Mesa, New Jersey",
-        projectImage: "/img/projects/country-house.png",
+        projectImage: "./img/projects/country-house.png",
         projectType: "residential"
     },
 ]
