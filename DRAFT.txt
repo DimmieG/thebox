@@ -1,0 +1,49 @@
+1280
+1054
+82%
+max wrapper width: 1575px
+
+Экран = 1 147,5px
+1vw = 11,475px
+0,5rem = 8px
+Target font size = 22
+Left fs for vw = 22 – 8 = 16
+1vw = 11,475px
+?vw === 16px
+1.4
+
+1054
+82
+
+
+
+1920
+1054
+
+x (1620)
+890
+
+
+Экран = 1920px
+1vw = 19.2px
+0,5rem = 8px
+Target font size = 52
+Left fs for vw = 52 – 8 = 44
+1vw = 19.2px
+?vw === 44px
+1.4
+
+
+40
+1054
+
+x
+1920
+
+
+
+x
+375
+
+24rem
+1920px
